@@ -1,16 +1,15 @@
 # Bikcraft
-![Logo of the project](http://logo_link)
 
-Site institucional ficticio criado durante o curso da Origamid. 
-Bikcraft é uma empresa de bicicletas  personalizadas, que conta com venda de bicicletas de diferentes estilos. 
-<img alt="Site Bikcraft" src="https://github.com/RaphaelaBerto/bikcraft/blob/main/github/demo.mov">
 
+Este projeto foi criado durante o curso de web design completo da Origamid. 
+Bikcraft é uma empresa de bicicletas  personalizadas, que conta com venda e criação de bicicletas de diferentes estilos. 
 
 
 
 ## O projeto
-O site criado se trata de um site responsivo, com o layout  adaptável para computadores,  smartphones e tablets. Para a realização foram utilizadas o HTML5, CSS3 e Java script.
+O site criado se trata de um site responsivo, com o layout  adaptável para computadores,  smartphones e tablets. 
 
+<img alt="Site Bikcraft" src="https://github.com/RaphaelaBerto/bikcraft/blob/main/github/demo.mov">
 
 
 ## Tecnologias utilizadas 
@@ -30,3 +29,4 @@ O site criado se trata de um site responsivo, com o layout  adaptável para comp
 ## Conhecimentos desenvolvidos 
 Durante o projeto foram utilizadas programas Adobe XD e Visual Studio Code. 
 Além das linguagens destacadas, foram  desenvolvidas as habilidades de boas práticas na programação, fundamentos teóricos e práticos de webdesign, UI design, UX design, grid, criação de wireframe, responsividade, entre outros.
+
