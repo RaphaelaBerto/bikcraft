@@ -20,8 +20,6 @@ O site criado se trata de um site responsivo, com o layout  adaptável para comp
 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 
-- [PHP](https://www.php.net/)
-
 - [AdobeXD](https://www.adobe.com/br/products/xd.html)
 
 
